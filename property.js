@@ -8,3 +8,5 @@
 //  console.log(person);
 // dot notation
  console.log(person.profession);
+ const value = person.salary;
+ console.log(value)
