@@ -9,3 +9,5 @@ const person = {
  console.log(person,['fev place']);
  person.salary = 3000;
  console.log(person);
+ person.profession = 'fontEnd Developer'
+ console.log(person);
